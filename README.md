@@ -8,7 +8,7 @@ Welcome to the **React E-Learning Platform**! This project is a feature-rich web
 
 Check out this video to see the working of application:
 
-[![Video Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Video Walkthrough](Click Here)](https://stately-biscochitos-e44900.netlify.app/)
 
 ## Features
 
