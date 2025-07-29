@@ -4,11 +4,11 @@ Welcome to the **React E-Learning Platform**! This project is a feature-rich web
 
 ---
 
-### Video Walkthrough
+### 🎥 Video Walkthrough
 
-Check out this video to see the working of application:
+Check out this video to see the working of the application:  
+[dev-warrior.netlify.app](https://dev-warrior.netlify.app)
 
-[(dev-warrior.netlify.app)](dev-warrior.netlify.app)
 
 ## Features
 
