@@ -8,7 +8,7 @@ Welcome to the **React E-Learning Platform**! This project is a feature-rich web
 
 Check out this video to see the working of application:
 
-[https://stately-biscochitos-e44900.netlify.app/)](https://stately-biscochitos-e44900.netlify.app/)
+[dev-warrior.netlify.app)](dev-warrior.netlify.app)
 
 ## Features
 
