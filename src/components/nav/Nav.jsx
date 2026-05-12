@@ -15,7 +15,7 @@ function Nav() {
                 alt="logo"
               />
             </Link>
-            <h4>Coding Ninjas</h4>
+            <h4>Dev Warrior</h4>
           </div>
           <div className={style.nav_details}>
             <button>
